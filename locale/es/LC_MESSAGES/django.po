@@ -1,7 +1,7 @@
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# Fedidevs català
+# Copyright (C) 2025 Pau Kokura
 # This file is distributed under the same license as the PACKAGE package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# paukokura, https://social.anartist.org/@paukokura, 2025.
 #
 msgid ""
 msgstr ""
